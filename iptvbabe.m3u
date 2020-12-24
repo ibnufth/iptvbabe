@@ -9,54 +9,54 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1,group-title="LOKAL" ANTV 
+#EXTINF:-1,group-title="LOKAL",ANTV 
 https://www.useetv.com/livetv/antv
-#EXTINF:-1,group-title="LOKAL" NET TV HD
+#EXTINF:-1,group-title="LOKAL",NET TV HD
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
-#EXTINF:-1,group-title="LOKAL" CNN 
+#EXTINF:-1,group-title="LOKAL",CNN 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1,group-title="LOKAL" INDOSIAR HD 
+#EXTINF:-1,group-title="LOKAL",INDOSIAR HD 
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1,group-title="LOKAL"TV ONE 
+#EXTINF:-1,group-title="LOKAL",TV ONE 
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1,group-title="LOKAL" RTV 
+#EXTINF:-1,group-title="LOKAL",RTV 
 http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
 http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
-#EXTINF:-1,group-title="LOKAL" TVKU 
+#EXTINF:-1,group-title="LOKAL",TVKU 
 http://103.30.1.14:8080/hls/live.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1,group-title="LOKAL"MNCTV 
+#EXTINF:-1,group-title="LOKAL",MNCTV 
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1,group-title="LOKAL"GLOBALTV 
+#EXTINF:-1,group-title="LOKAL",GLOBALTV 
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1,group-title="LOKAL"RCTI 
+#EXTINF:-1,group-title="LOKAL",RCTI 
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1,group-title="LOKAL"TVONE 
+#EXTINF:-1,group-title="LOKAL",TVONE 
 https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"INEWSTV 
+#EXTINF:-1,group-title="LOKAL",INEWSTV 
 https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
 https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"MNCSPORT 
+#EXTINF:-1,group-title="LOKAL",MNCSPORT 
 https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"IDXTV 
+#EXTINF:-1,group-title="LOKAL",IDXTV 
 https://cdn-livetv1.metube.id/hls/idxchannel_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/idxchannel_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"JAKTV 
+#EXTINF:-1,group-title="LOKAL",JAKTV 
 https://cdn-livetv1.metube.id/hls/jaktv_480/536549.ts
 https://cdn-livetv1.metube.id/hls/jaktv_480/536549.ts
-#EXTINF:-1,group-title="LOKAL"JTV
+#EXTINF:-1,group-title="LOKAL",JTV
 https://cdn-livetv1.metube.id/hls/jtv_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/jtv_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"KOMPASTV
+#EXTINF:-1,group-title="LOKAL",KOMPASTV
 http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Goc3pTS.png" group-title="LOKAL",Rajawali TV (Opt-5)
 http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
