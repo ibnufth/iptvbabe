@@ -10,9 +10,9 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 group-title="News",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 group-title="LOKAL",ANTV 
-https://www.useetv.com/livetv/antv
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 group-title="LOKAL",NET TV HD
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="LOKAL",CNN 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL",INDOSIAR HD 
