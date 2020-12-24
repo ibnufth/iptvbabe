@@ -49,7 +49,7 @@ http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=0
 http://210.210.155.35/session/386ba54a-48ed-11e9-b58e-9b4ca4d348fc/uq2663/h/h20/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Philippines",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
-#EXTINF:0,group-title="KID"ANIMAX http://210.210.155.35/dr9445/h/h144/index2.m3u8
+#EXTINF:0,group-title="KID"ANIMAX
 http://210.210.155.35/dr9445/h/h144/index2.m3u8
 #EXTINF:-1 group-title="",Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
