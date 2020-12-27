@@ -10,7 +10,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 group-title="News",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 group-title="LOKAL",ANTV 
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+https://scontent.fsub6-6.fna.fbcdn.net/v/t66.36281-6/10000000_138971951328712_3447147524519799667_n.mp4?_nc_cat=109&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_eui2=AeEaNnigCD5lJiafmzg3Fa7TubF87GES4t65sXzsYRLi3k4z_H3AiDdgRfcfsKusPPRQLcd5pB_FwKyyiMkYUXn2&_nc_ohc=tnCp5CYb9-EAX_xVT1U&_nc_zt=28&_nc_ht=scontent.fsub6-6.fna&oh=7e3b21961cf0b67c71b22ebed76ff574&oe=600E3CCF
 #EXTINF:-1 group-title="LOKAL",NET TV HD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="LOKAL",CNN 
